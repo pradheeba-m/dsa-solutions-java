@@ -1,2 +1,2 @@
 # DSA Solutions (Java)
-Java implementations of algorithms 
+Java implementations of algorithms
