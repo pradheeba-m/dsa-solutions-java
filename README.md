@@ -1,2 +1,2 @@
-# dsa-solutions-java
-Java DSA problem solutions
+# DSA Solutions (Java)
+Java implementations of algorithms
